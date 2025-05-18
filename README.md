@@ -18,7 +18,17 @@ this is test merge sort by using jest to test in typescript
   npm install
   ```
 
-## Running Unit Tests
+## Execute Code:
+- Change or modify input array in 
+  > src/index.ts
+
+- Run script using:
+  ```
+  npx ts-node src/index.ts
+  ```
+
+
+## Running Unit Tests:
   ```
   npm test
   ```
